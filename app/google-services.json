@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410854682491",
+    "project_id": "viajero-cliente",
+    "storage_bucket": "viajero-cliente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410854682491:android:57b33b24a848ebc871d7de",
+        "android_client_info": {
+          "package_name": "com.adndevelopersoftware.viajerocliente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn87ZkrzAAMKqY6w-OAf5UX_VpTYnzL0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410854682491:android:83a6f959a9ab60fe71d7de",
+        "android_client_info": {
+          "package_name": "com.adndevelopersoftware.viajeroconductor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn87ZkrzAAMKqY6w-OAf5UX_VpTYnzL0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
