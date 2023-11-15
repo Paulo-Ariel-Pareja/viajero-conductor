@@ -11,7 +11,7 @@ interface IFCMApi {
 
     @Headers(
         "Content-Type:application/json",
-        "Authorization:key=AAAAX6jY73s:APA91bHvvqpG474H51c9NKGfGv_yrZWIINCF3m--oO-vo0FI_pxfqxhl-Jh-euN6LU-IbhRQmHzZLO74r3GoHJSp3agPraErVedolGK5DUnbWZbt5WeJvfQigjbMofch9ZDv26x0fTKV"
+        "Authorization:key=SOME_KEY"
     )
     @POST("fcm/send")
     fun send(@Body body: FCMBody): Call<FCMResponse>
